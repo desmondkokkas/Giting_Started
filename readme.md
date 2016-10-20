@@ -1,7 +1,7 @@
 # Git-ing Started with Git
 
-### A fun project to learn git as part of the **DevMarketer** community.
+### A fun project to learn git as part of the **code community** community.
 
 ---
 
-Email me at [hello@devmarketer.io]{Mailto:desmond.kokkas@gmail.com}
+Email me at [desmond.kokkas@gmail.com]{Mailto:desmond.kokkas@gmail.com}
